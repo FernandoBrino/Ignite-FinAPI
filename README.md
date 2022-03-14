@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj" width="150" height="150">
-  <h3>✨ Financial Api ✨</h3>
+  <h3>✨ Financial Api 🚀✨</h3>
 </div>
 
 <div class="overview">
